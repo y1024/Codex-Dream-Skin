@@ -106,6 +106,7 @@
 - Mac：[`macos/README.md`](./macos/README.md)
 - Windows：[`windows/SKILL.md`](./windows/SKILL.md)
 - 路径对照：[`docs/platforms.md`](./docs/platforms.md)
+- 项目记录：[`docs/PROJECT.md`](./docs/PROJECT.md)
 
 ## 安全边界
 

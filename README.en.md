@@ -107,6 +107,7 @@ More detail:
 - Mac: [`macos/README.md`](./macos/README.md)
 - Windows: [`windows/SKILL.md`](./windows/SKILL.md)
 - Paths: [`docs/platforms.md`](./docs/platforms.md)
+- Project notes: [`docs/PROJECT.md`](./docs/PROJECT.md)
 
 ## Safety
 
